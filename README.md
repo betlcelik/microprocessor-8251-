@@ -20,12 +20,8 @@ Bileşenler:
 3. 8255’in A portunun 0. ve 4. ucuna pull-down dirençli olacak biçimde düğmeler bağlanacaktır.
 4. Pull-down dirençleri 100 Ω’luk olacaktır.
 5. 8255’in B portuna ortak anot uçlu bir 7-parçalı gösterge bağlanacaktır.
-6. 8255’in 0. ucuna bağlı düğmeye her basıldığında 7 parçalı göstergede aşağıdakiler görünecektir:
-a. 1. Grup öğrencilerinin devrelerinde sırasıyla 1, 2, 3 ve 4 rakamları görünecektir.
-b. 2. Grup öğrencilerinin devrelerinde sırasıyla 5, 6, 7 ve 8 rakamları görünecektir.
-c. 3. Grup öğrencilerinin devrelerinde sırasıyla A, B, C ve D harfleri görünecektir.
-d. 4. Grup öğrencilerinin devrelerinde sırasıyla E, F, G ve H harfleri görünecektir.
+6. 8255’in 0. ucuna bağlı düğmeye her basıldığında 7 parçalı göstergede sırasıyla E, F, G ve H harfleri görünecektir.
 7. 8255’in 4. ucuna bağlı düğmeye her basıldığında gösterge sıfırlanıp, 0 rakamı görünecektir.
 
 
-Proteus 8.6 sürümü kullanılmıştır.
+Proteus 8.6 kullanılmıştır.
