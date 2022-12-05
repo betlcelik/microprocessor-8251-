@@ -26,3 +26,6 @@ b. 2. Grup öğrencilerinin devrelerinde sırasıyla 5, 6, 7 ve 8 rakamları gö
 c. 3. Grup öğrencilerinin devrelerinde sırasıyla A, B, C ve D harfleri görünecektir.
 d. 4. Grup öğrencilerinin devrelerinde sırasıyla E, F, G ve H harfleri görünecektir.
 7. 8255’in 4. ucuna bağlı düğmeye her basıldığında gösterge sıfırlanıp, 0 rakamı görünecektir.
+
+
+Proteus 8.6 sürümü kullanılmıştır.
